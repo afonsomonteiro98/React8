@@ -2,6 +2,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+https://fervent-mayer-565630.netlify.com/
+
 In the project directory, you can run:
 
 ### `yarn start`
